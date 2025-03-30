@@ -31,7 +31,7 @@ The dataset used is the [Top Spotify Songs 2023](https://www.kaggle.com/datasets
    - Interact with filters (e.g., date range, artist name) to explore streaming trends and track details.
 
 ## Screenshots
-![Dashboard Screenshot](path/to/screenshot.png)  
+![Dashboard Screenshot](Spotify.jpg)  
 *Screenshot of the Spotify Top Tracks 2023 Dashboard showing track info, music attributes, and streaming trends.*
 
 ## Credits
